@@ -133,4 +133,5 @@ eval "$(oh-my-posh init bash --config ~/.poshthemes/jandedobbeleer.omp.json)"
 
 ---
 
-Se quiser, posso te mostrar como usar ícones no terminal corretamente com Nerd Fonts (tipo Meslo, Fira Code). Deseja isso também?
+![Captura de imagem_20250707_215800](https://github.com/user-attachments/assets/3f16d00b-ff0c-4ecc-bdac-e74d4b74fcaa)
+
