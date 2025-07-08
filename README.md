@@ -133,5 +133,9 @@ eval "$(oh-my-posh init bash --config ~/.poshthemes/jandedobbeleer.omp.json)"
 
 ---
 
-![Captura de imagem_20250707_215800](https://github.com/user-attachments/assets/3f16d00b-ff0c-4ecc-bdac-e74d4b74fcaa)
+## Meus apps 
+![Captura de imagem_20250707_220039](https://github.com/user-attachments/assets/eab96a69-ec34-47d9-b4c3-bf5f9ae300e2)
+
+## 
+
 
